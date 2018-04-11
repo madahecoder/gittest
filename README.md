@@ -1,4 +1,8 @@
 # gittest
 just git test
 haha
-modified on master branch !
+<<<<<<< HEAD
+modified on master and branch !
+=======
+modified on master and branch !
+>>>>>>> branch1
